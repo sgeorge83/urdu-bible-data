@@ -1,7 +1,17 @@
 # Urdu Geo Version Bible data (ur_geo)
 
-Public chapter files for the Urdu Bible API.
+# About
 
+This repository hosts the **Urdu Geo Version** Bible (کتابِ مقدس) as structured JSON files for use by apps, websites, and the [Urdu Bible API](https://github.com/sgeorge83/urdu-bible-api).
+
+**Contents**
+- `metadata.json` — translation info, publisher, license
+- `books.json` — 66 books with Urdu names and chapter counts
+- `chapters/{book}/{chapter}.json` — 1,189 chapter files (30,668 verses total)
+
+**Translation:** Urdu Geo Version (`ur_geo`), 2019  
+**Script:** Urdu  
+**Format:** Split from Bible SuperSearch JSON; text and punctuation unchanged
 ## Structure
 
 ```text

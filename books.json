@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "name": "پَیدایش",
+    "chapter_count": 50
+  },
+  {
+    "id": 2,
+    "name": "خروج",
+    "chapter_count": 40
+  },
+  {
+    "id": 3,
+    "name": "احبار",
+    "chapter_count": 27
+  },
+  {
+    "id": 4,
+    "name": "گِنتی",
+    "chapter_count": 36
+  },
+  {
+    "id": 5,
+    "name": "اِستِثنا",
+    "chapter_count": 34
+  },
+  {
+    "id": 6,
+    "name": "یشوع",
+    "chapter_count": 24
+  },
+  {
+    "id": 7,
+    "name": "قُضاۃ",
+    "chapter_count": 21
+  },
+  {
+    "id": 8,
+    "name": "روت",
+    "chapter_count": 4
+  },
+  {
+    "id": 9,
+    "name": "۱-سموئیل",
+    "chapter_count": 31
+  },
+  {
+    "id": 10,
+    "name": "۲-سموئیل",
+    "chapter_count": 24
+  },
+  {
+    "id": 11,
+    "name": "۱-سلاطِین",
+    "chapter_count": 22
+  },
+  {
+    "id": 12,
+    "name": "۲-سلاطِین",
+    "chapter_count": 25
+  },
+  {
+    "id": 13,
+    "name": "۱-توارِیخ",
+    "chapter_count": 29
+  },
+  {
+    "id": 14,
+    "name": "۲-توارِیخ",
+    "chapter_count": 36
+  },
+  {
+    "id": 15,
+    "name": "عزرا",
+    "chapter_count": 10
+  },
+  {
+    "id": 16,
+    "name": "نحمیاہ",
+    "chapter_count": 13
+  },
+  {
+    "id": 17,
+    "name": "آستر",
+    "chapter_count": 10
+  },
+  {
+    "id": 18,
+    "name": "ایوب",
+    "chapter_count": 42
+  },
+  {
+    "id": 19,
+    "name": "زبور",
+    "chapter_count": 150
+  },
+  {
+    "id": 20,
+    "name": "امثال",
+    "chapter_count": 31
+  },
+  {
+    "id": 21,
+    "name": "واعظ",
+    "chapter_count": 12
+  },
+  {
+    "id": 22,
+    "name": "غزلُ الغزلات",
+    "chapter_count": 8
+  },
+  {
+    "id": 23,
+    "name": "یسعیاہ",
+    "chapter_count": 66
+  },
+  {
+    "id": 24,
+    "name": "یرمیاہ",
+    "chapter_count": 52
+  },
+  {
+    "id": 25,
+    "name": "نوحہ",
+    "chapter_count": 5
+  },
+  {
+    "id": 26,
+    "name": "حزقی ایل",
+    "chapter_count": 48
+  },
+  {
+    "id": 27,
+    "name": "دانیال",
+    "chapter_count": 12
+  },
+  {
+    "id": 28,
+    "name": "ہوسیع",
+    "chapter_count": 14
+  },
+  {
+    "id": 29,
+    "name": "یوایل",
+    "chapter_count": 3
+  },
+  {
+    "id": 30,
+    "name": "عاموس",
+    "chapter_count": 9
+  },
+  {
+    "id": 31,
+    "name": "عبدیاہ",
+    "chapter_count": 1
+  },
+  {
+    "id": 32,
+    "name": "یونس",
+    "chapter_count": 4
+  },
+  {
+    "id": 33,
+    "name": "میکاہ",
+    "chapter_count": 7
+  },
+  {
+    "id": 34,
+    "name": "ناحوم",
+    "chapter_count": 3
+  },
+  {
+    "id": 35,
+    "name": "حبقوق",
+    "chapter_count": 3
+  },
+  {
+    "id": 36,
+    "name": "صفنیاہ",
+    "chapter_count": 3
+  },
+  {
+    "id": 37,
+    "name": "حجی",
+    "chapter_count": 2
+  },
+  {
+    "id": 38,
+    "name": "زکریاہ",
+    "chapter_count": 14
+  },
+  {
+    "id": 39,
+    "name": "ملاکی",
+    "chapter_count": 4
+  },
+  {
+    "id": 40,
+    "name": "متی",
+    "chapter_count": 28
+  },
+  {
+    "id": 41,
+    "name": "مرقس",
+    "chapter_count": 16
+  },
+  {
+    "id": 42,
+    "name": "لوقا",
+    "chapter_count": 24
+  },
+  {
+    "id": 43,
+    "name": "یوحنا",
+    "chapter_count": 21
+  },
+  {
+    "id": 44,
+    "name": "اعمال",
+    "chapter_count": 28
+  },
+  {
+    "id": 45,
+    "name": "رومیوں",
+    "chapter_count": 16
+  },
+  {
+    "id": 46,
+    "name": "۱-کُرِنتِھیوں",
+    "chapter_count": 16
+  },
+  {
+    "id": 47,
+    "name": "۲-کُرِنتِھیوں",
+    "chapter_count": 13
+  },
+  {
+    "id": 48,
+    "name": "گلتیوں",
+    "chapter_count": 6
+  },
+  {
+    "id": 49,
+    "name": "اِفسِیوں",
+    "chapter_count": 6
+  },
+  {
+    "id": 50,
+    "name": "فِلپّیوں",
+    "chapter_count": 4
+  },
+  {
+    "id": 51,
+    "name": "کُلسِیوں",
+    "chapter_count": 4
+  },
+  {
+    "id": 52,
+    "name": "۱-تِھسّلُنیکیوں",
+    "chapter_count": 5
+  },
+  {
+    "id": 53,
+    "name": "۲-تِھسّلُنیکیوں",
+    "chapter_count": 3
+  },
+  {
+    "id": 54,
+    "name": "۱-تیمُتھیُس",
+    "chapter_count": 6
+  },
+  {
+    "id": 55,
+    "name": "۲-تیمُتھیُس",
+    "chapter_count": 4
+  },
+  {
+    "id": 56,
+    "name": "طِطُس",
+    "chapter_count": 3
+  },
+  {
+    "id": 57,
+    "name": "فلیمون",
+    "chapter_count": 1
+  },
+  {
+    "id": 58,
+    "name": "عبرانیوں",
+    "chapter_count": 13
+  },
+  {
+    "id": 59,
+    "name": "یعقوب",
+    "chapter_count": 5
+  },
+  {
+    "id": 60,
+    "name": "۱-پطرس",
+    "chapter_count": 5
+  },
+  {
+    "id": 61,
+    "name": "۲-پطرس",
+    "chapter_count": 3
+  },
+  {
+    "id": 62,
+    "name": "۱-یوحنا",
+    "chapter_count": 5
+  },
+  {
+    "id": 63,
+    "name": "۲-یوحنا",
+    "chapter_count": 1
+  },
+  {
+    "id": 64,
+    "name": "۳-یوحنا",
+    "chapter_count": 1
+  },
+  {
+    "id": 65,
+    "name": "یہوداہ",
+    "chapter_count": 1
+  },
+  {
+    "id": 66,
+    "name": "مکاشفہ",
+    "chapter_count": 22
+  }
+]
